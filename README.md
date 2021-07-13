@@ -8,4 +8,7 @@ Note: I recommend you to see this on your desktop only for better UI. <br><br>
 
 Thank You for your time!! &#128151; <br><br>
 
+If you like my project then please give me a 
+"<span style="font-size:300%;color:yellow;">&starf;</span>" <br> <br>
+
 Keep learning!!!!!!! &#128640;
